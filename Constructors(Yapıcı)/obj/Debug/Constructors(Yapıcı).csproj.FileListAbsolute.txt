@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\bin\Debug\Constructors(Yapıcı).exe.config
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\bin\Debug\Constructors(Yapıcı).exe
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\bin\Debug\Constructors(Yapıcı).pdb
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\obj\Debug\Constructors(Yapıcı).csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\obj\Debug\Constructors(Yapıcı).csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\obj\Debug\Constructors(Yapıcı).exe
+C:\Users\menes\Desktop\CSharp-ders\Constructors(Yapıcı)\obj\Debug\Constructors(Yapıcı).pdb

@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\bin\Debug\Inheritance(kalıtım-miras).exe.config
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\bin\Debug\Inheritance(kalıtım-miras).exe
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\bin\Debug\Inheritance(kalıtım-miras).pdb
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\obj\Debug\Inheritance(kalıtım-miras).csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\obj\Debug\Inheritance(kalıtım-miras).csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\obj\Debug\Inheritance(kalıtım-miras).exe
+C:\Users\menes\Desktop\CSharp-ders\Inheritance(kalıtım-miras)\obj\Debug\Inheritance(kalıtım-miras).pdb

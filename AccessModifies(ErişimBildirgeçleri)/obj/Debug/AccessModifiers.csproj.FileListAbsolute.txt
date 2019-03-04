@@ -1,0 +1,6 @@
+C:\Users\menes\Desktop\CSharp-ders\AccessModifies(ErişimBildirgeçleri)\bin\Debug\AccessModifies(ErişimBildirgeçleri).exe.config
+C:\Users\menes\Desktop\CSharp-ders\AccessModifies(ErişimBildirgeçleri)\bin\Debug\AccessModifies(ErişimBildirgeçleri).exe
+C:\Users\menes\Desktop\CSharp-ders\AccessModifies(ErişimBildirgeçleri)\bin\Debug\AccessModifies(ErişimBildirgeçleri).pdb
+C:\Users\menes\Desktop\CSharp-ders\AccessModifies(ErişimBildirgeçleri)\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\AccessModifies(ErişimBildirgeçleri)\obj\Debug\AccessModifies(ErişimBildirgeçleri).exe
+C:\Users\menes\Desktop\CSharp-ders\AccessModifies(ErişimBildirgeçleri)\obj\Debug\AccessModifies(ErişimBildirgeçleri).pdb

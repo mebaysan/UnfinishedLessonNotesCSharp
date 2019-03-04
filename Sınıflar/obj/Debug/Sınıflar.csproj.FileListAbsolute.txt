@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\bin\Debug\Sınıflar.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\bin\Debug\Sınıflar.exe
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\bin\Debug\Sınıflar.pdb
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\obj\Debug\Sınıflar.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\obj\Debug\Sınıflar.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\obj\Debug\Sınıflar.exe
+C:\Users\menes\Desktop\CSharp-ders\Sınıflar\obj\Debug\Sınıflar.pdb

@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\obj\Debug\Döngüler.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\menes\Desktop\CSharp-ders\Döngüler\obj\Debug\Döngüler.pdb

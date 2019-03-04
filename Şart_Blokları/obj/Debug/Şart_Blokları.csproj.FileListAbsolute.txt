@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\bin\Debug\Şart_Blokları.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\bin\Debug\Şart_Blokları.exe
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\bin\Debug\Şart_Blokları.pdb
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\obj\Debug\Şart_Blokları.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\obj\Debug\Şart_Blokları.exe
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\obj\Debug\Şart_Blokları.pdb
+C:\Users\menes\Desktop\CSharp-ders\Şart_Blokları\obj\Debug\Şart_Blokları.csprojAssemblyReference.cache

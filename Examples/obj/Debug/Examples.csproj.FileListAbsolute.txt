@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Examples\bin\Debug\Examples.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Examples\bin\Debug\Examples.exe
+C:\Users\menes\Desktop\CSharp-ders\Examples\bin\Debug\Examples.pdb
+C:\Users\menes\Desktop\CSharp-ders\Examples\obj\Debug\Examples.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Examples\obj\Debug\Examples.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Examples\obj\Debug\Examples.exe
+C:\Users\menes\Desktop\CSharp-ders\Examples\obj\Debug\Examples.pdb

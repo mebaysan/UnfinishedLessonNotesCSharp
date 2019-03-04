@@ -1,0 +1,10 @@
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.Form1.resources
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.Properties.Resources.resources
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.csproj.GenerateResource.cache
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\bin\Debug\AdoNetDemo1.exe.config
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\bin\Debug\AdoNetDemo1.exe
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\bin\Debug\AdoNetDemo1.pdb
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.exe
+C:\Users\menes\Desktop\CSharp-ders\AdoNetDemo1\obj\Debug\AdoNetDemo1.pdb

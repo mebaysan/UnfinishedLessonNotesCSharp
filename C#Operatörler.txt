@@ -1,0 +1,22 @@
+==    Eþitse
+
+!       Deðilse
+
+!=     Eþit deðilse
+
+<      Küçükse
+
+<=    Küçük veya eþitse
+
+>      Büyükse
+
+>=    Büyük veya eþitse
+
+Ve Operatörü ( && ):
+
+
+
+Veya Operatörü ( || ):
+
+
+

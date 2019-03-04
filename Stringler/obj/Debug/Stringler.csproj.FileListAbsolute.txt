@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Stringler\obj\Debug\Stringler.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Stringler\obj\Debug\Stringler.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Stringler\bin\Debug\Stringler.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Stringler\bin\Debug\Stringler.exe
+C:\Users\menes\Desktop\CSharp-ders\Stringler\bin\Debug\Stringler.pdb
+C:\Users\menes\Desktop\CSharp-ders\Stringler\obj\Debug\Stringler.exe
+C:\Users\menes\Desktop\CSharp-ders\Stringler\obj\Debug\Stringler.pdb

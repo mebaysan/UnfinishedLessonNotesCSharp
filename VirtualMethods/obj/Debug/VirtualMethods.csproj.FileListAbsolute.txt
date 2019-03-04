@@ -1,0 +1,6 @@
+C:\Users\menes\Desktop\CSharp-ders\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\menes\Desktop\CSharp-ders\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\menes\Desktop\CSharp-ders\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\menes\Desktop\CSharp-ders\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\menes\Desktop\CSharp-ders\VirtualMethods\obj\Debug\VirtualMethods.pdb

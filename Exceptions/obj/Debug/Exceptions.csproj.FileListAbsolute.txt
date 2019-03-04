@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\menes\Desktop\CSharp-ders\Exceptions\obj\Debug\Exceptions.pdb

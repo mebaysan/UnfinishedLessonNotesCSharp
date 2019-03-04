@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Methods\bin\Debug\Methods.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Methods\bin\Debug\Methods.exe
+C:\Users\menes\Desktop\CSharp-ders\Methods\bin\Debug\Methods.pdb
+C:\Users\menes\Desktop\CSharp-ders\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Methods\obj\Debug\Methods.exe
+C:\Users\menes\Desktop\CSharp-ders\Methods\obj\Debug\Methods.pdb

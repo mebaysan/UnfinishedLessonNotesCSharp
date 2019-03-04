@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\bin\Debug\Veri_Tipleri.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\bin\Debug\Veri_Tipleri.exe
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\bin\Debug\Veri_Tipleri.pdb
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\obj\Debug\Veri_Tipleri.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\obj\Debug\Veri_Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\obj\Debug\Veri_Tipleri.exe
+C:\Users\menes\Desktop\CSharp-ders\Veri_Tipleri\obj\Debug\Veri_Tipleri.pdb

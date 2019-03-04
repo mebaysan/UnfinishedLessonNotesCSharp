@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\menes\Desktop\CSharp-ders\AbstractClasses\obj\Debug\AbstractClasses.pdb

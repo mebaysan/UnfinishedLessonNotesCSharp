@@ -1,0 +1,2 @@
+C:\Users\menes\Desktop\CSharp-ders\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache

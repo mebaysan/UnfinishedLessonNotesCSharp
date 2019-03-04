@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\CSharp-ders\Listeler\bin\Debug\Listeler.exe.config
+C:\Users\menes\Desktop\CSharp-ders\Listeler\bin\Debug\Listeler.exe
+C:\Users\menes\Desktop\CSharp-ders\Listeler\bin\Debug\Listeler.pdb
+C:\Users\menes\Desktop\CSharp-ders\Listeler\obj\Debug\Listeler.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\CSharp-ders\Listeler\obj\Debug\Listeler.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\CSharp-ders\Listeler\obj\Debug\Listeler.exe
+C:\Users\menes\Desktop\CSharp-ders\Listeler\obj\Debug\Listeler.pdb
