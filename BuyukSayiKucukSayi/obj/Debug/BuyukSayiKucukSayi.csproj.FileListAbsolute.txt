@@ -1,0 +1,7 @@
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\bin\Debug\BuyukSayiKucukSayi.exe.config
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\bin\Debug\BuyukSayiKucukSayi.exe
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\bin\Debug\BuyukSayiKucukSayi.pdb
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\obj\Debug\BuyukSayiKucukSayi.csprojAssemblyReference.cache
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\obj\Debug\BuyukSayiKucukSayi.csproj.CoreCompileInputs.cache
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\obj\Debug\BuyukSayiKucukSayi.exe
+C:\Users\menes\source\repos\BuyukSayiKucukSayi\obj\Debug\BuyukSayiKucukSayi.pdb

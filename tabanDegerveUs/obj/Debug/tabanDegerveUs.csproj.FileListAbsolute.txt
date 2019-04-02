@@ -1,0 +1,7 @@
+C:\Users\menes\source\repos\tabanDegerveUs\bin\Debug\tabanDegerveUs.exe.config
+C:\Users\menes\source\repos\tabanDegerveUs\bin\Debug\tabanDegerveUs.exe
+C:\Users\menes\source\repos\tabanDegerveUs\bin\Debug\tabanDegerveUs.pdb
+C:\Users\menes\source\repos\tabanDegerveUs\obj\Debug\tabanDegerveUs.csproj.CoreCompileInputs.cache
+C:\Users\menes\source\repos\tabanDegerveUs\obj\Debug\tabanDegerveUs.exe
+C:\Users\menes\source\repos\tabanDegerveUs\obj\Debug\tabanDegerveUs.pdb
+C:\Users\menes\source\repos\tabanDegerveUs\obj\Debug\tabanDegerveUs.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\menes\source\repos\StringIslemler\bin\Debug\StringIslemler.exe.config
+C:\Users\menes\source\repos\StringIslemler\bin\Debug\StringIslemler.exe
+C:\Users\menes\source\repos\StringIslemler\bin\Debug\StringIslemler.pdb
+C:\Users\menes\source\repos\StringIslemler\obj\Debug\StringIslemler.csprojAssemblyReference.cache
+C:\Users\menes\source\repos\StringIslemler\obj\Debug\StringIslemler.csproj.CoreCompileInputs.cache
+C:\Users\menes\source\repos\StringIslemler\obj\Debug\StringIslemler.exe
+C:\Users\menes\source\repos\StringIslemler\obj\Debug\StringIslemler.pdb
