@@ -1,0 +1,16 @@
+Detaylı açıklamalar ile windows forms uygulamasına hoşgeldiniz ^^
+Bu uygulama için 1 adet EOkul adında veritabanı ve 2 adet classroom ve students adında table oluşturmanız gerek.
+Classroom Table Properties;
+-) primary key auto int id
+-) varchar Name
+
+Students Table Properties;
+-) primary key auto int id
+-) varchar name
+-) varchar surname
+-) varchar classroom
+-) int number
+
+
+Umarım işinize yarar, elimden geldiğince detaylı bir şekilde açıklamaya çalıştım.
+BAŞARILAR^^
