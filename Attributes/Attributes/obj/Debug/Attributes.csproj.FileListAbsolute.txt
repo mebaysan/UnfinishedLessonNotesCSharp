@@ -1,0 +1,2 @@
+C:\Users\Baysan\source\repos\Attributes\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+C:\Users\Baysan\source\repos\Attributes\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
