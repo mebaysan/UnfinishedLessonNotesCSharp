@@ -1,0 +1,6 @@
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\ProjeÖdevi5.Soru\obj\Debug\Soru5.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.pdb
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru5\obj\Debug\Soru5.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru5\obj\Debug\ProjeÖdevi5.Soru.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru5\obj\Debug\ProjeÖdevi5.Soru.pdb

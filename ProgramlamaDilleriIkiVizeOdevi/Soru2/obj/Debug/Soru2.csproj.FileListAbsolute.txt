@@ -1,0 +1,7 @@
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\bin\Debug\Soru2.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\bin\Debug\Soru2.pdb
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\obj\Debug\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\obj\Debug\Soru2.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\obj\Debug\Soru2.pdb
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru2\obj\Debug\Soru2.csprojAssemblyReference.cache

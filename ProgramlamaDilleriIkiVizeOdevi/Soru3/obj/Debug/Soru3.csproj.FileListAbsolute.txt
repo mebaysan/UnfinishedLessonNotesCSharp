@@ -1,0 +1,6 @@
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru3\obj\Debug\Soru3.csproj.CoreCompileInputs.cache
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru3\bin\Debug\Soru3.exe.config
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru3\bin\Debug\Soru3.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru3\bin\Debug\Soru3.pdb
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru3\obj\Debug\Soru3.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\Soru3\obj\Debug\Soru3.pdb

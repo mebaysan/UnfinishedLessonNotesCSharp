@@ -1,0 +1,12 @@
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\bin\Debug\ProjeÖdevi5.Soru.exe.config
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\bin\Debug\ProjeÖdevi5.Soru.exe
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\bin\Debug\ProjeÖdevi5.Soru.pdb
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.Form1.resources
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.Properties.Resources.resources
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.exe
+C:\Users\Emre\source\repos\ProjeÖdevi5.Soru\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.pdb
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.csprojAssemblyReference.cache
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.exe
+C:\Users\menes\Desktop\ProgramlamaDilleriIkiVizeOdevi\ProjeÖdevi5.Soru\obj\Debug\ProjeÖdevi5.Soru.pdb
