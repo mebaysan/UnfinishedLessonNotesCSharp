@@ -10,50 +10,56 @@ namespace BuyukSayiKucukSayi
     {
         static void Main(string[] args)
         {
-            List<int> sayilar = new List<int>();
-            Random random = new Random();
-            for(int i=1; i <= 15; i++)
+            List<double> sayilar = new List<double>();
+            while (true)
             {
-                int x = random.Next(3, 2900);
-                sayilar.Add(x);
-            }
-            Program program = new Program();
-            int ksayi = program.KucukSayi(sayilar);
-
-
-            Console.WriteLine("İcerdeki en büyük sayi = " + ksayi);
-
-            Console.ReadLine();
-        }
-
-        public int BuyukSayi( List<int> liste)
-        {
-            int bSayi = 0;
-            foreach(var sayi in liste)
-            {
-                if (bSayi <= sayi)
+                Console.WriteLine("Ondalıklı bir sayı gir: ");
+                double sayi = Convert.ToDouble(Console.ReadLine());
+                if (sayi == -1)
                 {
-                    bSayi = sayi;
-                }
-            }
-            
-            return bSayi;
-        }
-        public int KucukSayi( List<int> liste)
-        {
-            int kSayi = 0;
-            foreach (var sayi in liste)
-            {
-                if (kSayi >= sayi)
-                {
-                    kSayi = sayi;
+
+                    break;
                 }
                 else
                 {
-                    kSayi = sayi;
+                    sayilar.Add(sayi);
+                }
+
+
+            }
+            Program self = new Program();
+            double buyuk_sayi = self.BuyukSayi(sayilar);
+            double kucuk_sayi = self.KucukSayi(sayilar);
+            //Console.WriteLine(String.Format("En büyük sayı -> {0}\nEn küçük sayı -> {1}", buyuk_sayi, kucuk_sayi));
+            Console.WriteLine("En büyük sayı -> " + buyuk_sayi + "\nEn küçük sayı -> " + kucuk_sayi);
+            Console.ReadLine();
+
+        }
+        public double BuyukSayi(List<double> liste)
+        {
+            double bSayi = liste[0]; 
+            for (int i = 0; i < liste.Count - 1; i++)
+            {
+                if (bSayi <= liste[i])
+                {
+                    bSayi = liste[i];
                 }
             }
-            Console.WriteLine("İcerdeki en kücük sayi = " + kSayi);
+
+            return bSayi;
+        }
+        public double KucukSayi(List<double> liste)
+        {
+
+            double kSayi = liste[0];
+
+            for (int i = 0; i <= liste.Count - 1; i++)
+            {
+                if (liste[i] <= kSayi)
+                {
+                    kSayi = liste[i];
+                }
+            }
 
             return kSayi;
         }
